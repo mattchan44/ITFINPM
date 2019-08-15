@@ -4,7 +4,7 @@
 
 因此我们在这里建立了一个 github 仓库，主要是用来积累「互金产品运营群V2.0」中积累各种资料。
 
-本repository目前已不再向zhangsub推送新，仅定期pull并merge其新增文件；
+本repository目前已不再向zhangsub推送更新，仅定期merge其新增文件；
 
 
 ## 目录
